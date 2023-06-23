@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		940644B42A4612F2002C4546 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644B32A4612F2002C4546 /* main.swift */; };
+		940644BB2A461BB3002C4546 /* TwoSum(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644BA2A461BB3002C4546 /* TwoSum(1).swift */; };
+		940644BD2A461F88002C4546 /* BestTimetoBuyandSellStock(121).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644BC2A461F88002C4546 /* BestTimetoBuyandSellStock(121).swift */; };
+		940644BF2A4620E2002C4546 /* ContainsDuplicate(217).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644BE2A4620E2002C4546 /* ContainsDuplicate(217).swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		940644B02A4612F2002C4546 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		940644B32A4612F2002C4546 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		940644BA2A461BB3002C4546 /* TwoSum(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TwoSum(1).swift"; sourceTree = "<group>"; };
+		940644BC2A461F88002C4546 /* BestTimetoBuyandSellStock(121).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BestTimetoBuyandSellStock(121).swift"; sourceTree = "<group>"; };
+		940644BE2A4620E2002C4546 /* ContainsDuplicate(217).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContainsDuplicate(217).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				940644B32A4612F2002C4546 /* main.swift */,
+				940644BA2A461BB3002C4546 /* TwoSum(1).swift */,
+				940644BC2A461F88002C4546 /* BestTimetoBuyandSellStock(121).swift */,
+				940644BE2A4620E2002C4546 /* ContainsDuplicate(217).swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -120,7 +129,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				940644BF2A4620E2002C4546 /* ContainsDuplicate(217).swift in Sources */,
+				940644BD2A461F88002C4546 /* BestTimetoBuyandSellStock(121).swift in Sources */,
 				940644B42A4612F2002C4546 /* main.swift in Sources */,
+				940644BB2A461BB3002C4546 /* TwoSum(1).swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
