@@ -11,6 +11,14 @@
 		940644BB2A461BB3002C4546 /* TwoSum(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644BA2A461BB3002C4546 /* TwoSum(1).swift */; };
 		940644BD2A461F88002C4546 /* BestTimetoBuyandSellStock(121).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644BC2A461F88002C4546 /* BestTimetoBuyandSellStock(121).swift */; };
 		940644BF2A4620E2002C4546 /* ContainsDuplicate(217).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644BE2A4620E2002C4546 /* ContainsDuplicate(217).swift */; };
+		940644C12A462625002C4546 /* ProductofArrayExceptSelf(238).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644C02A462625002C4546 /* ProductofArrayExceptSelf(238).swift */; };
+		940644C32A462B37002C4546 /* MaximumProductSubarray(152).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644C22A462B37002C4546 /* MaximumProductSubarray(152).swift */; };
+		940644C52A463B99002C4546 /* FindMinimuminRotatedSortedArray(153).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644C42A463B99002C4546 /* FindMinimuminRotatedSortedArray(153).swift */; };
+		940644C72A4649EB002C4546 /* ClimbingStairs(70).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644C62A4649EB002C4546 /* ClimbingStairs(70).swift */; };
+		940644C92A464A84002C4546 /* LongestIncreasingSubsequence(300).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644C82A464A84002C4546 /* LongestIncreasingSubsequence(300).swift */; };
+		940644CB2A465B9A002C4546 /* ValidParentheses(20).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644CA2A465B9A002C4546 /* ValidParentheses(20).swift */; };
+		940644CD2A465C97002C4546 /* SwapNodesinPairs(24).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644CC2A465C97002C4546 /* SwapNodesinPairs(24).swift */; };
+		940644CF2A466106002C4546 /* SpiralMatrix(54).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644CE2A466106002C4546 /* SpiralMatrix(54).swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +39,14 @@
 		940644BA2A461BB3002C4546 /* TwoSum(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TwoSum(1).swift"; sourceTree = "<group>"; };
 		940644BC2A461F88002C4546 /* BestTimetoBuyandSellStock(121).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BestTimetoBuyandSellStock(121).swift"; sourceTree = "<group>"; };
 		940644BE2A4620E2002C4546 /* ContainsDuplicate(217).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContainsDuplicate(217).swift"; sourceTree = "<group>"; };
+		940644C02A462625002C4546 /* ProductofArrayExceptSelf(238).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ProductofArrayExceptSelf(238).swift"; sourceTree = "<group>"; };
+		940644C22A462B37002C4546 /* MaximumProductSubarray(152).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MaximumProductSubarray(152).swift"; sourceTree = "<group>"; };
+		940644C42A463B99002C4546 /* FindMinimuminRotatedSortedArray(153).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FindMinimuminRotatedSortedArray(153).swift"; sourceTree = "<group>"; };
+		940644C62A4649EB002C4546 /* ClimbingStairs(70).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ClimbingStairs(70).swift"; sourceTree = "<group>"; };
+		940644C82A464A84002C4546 /* LongestIncreasingSubsequence(300).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LongestIncreasingSubsequence(300).swift"; sourceTree = "<group>"; };
+		940644CA2A465B9A002C4546 /* ValidParentheses(20).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ValidParentheses(20).swift"; sourceTree = "<group>"; };
+		940644CC2A465C97002C4546 /* SwapNodesinPairs(24).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwapNodesinPairs(24).swift"; sourceTree = "<group>"; };
+		940644CE2A466106002C4546 /* SpiralMatrix(54).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SpiralMatrix(54).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +83,14 @@
 				940644BA2A461BB3002C4546 /* TwoSum(1).swift */,
 				940644BC2A461F88002C4546 /* BestTimetoBuyandSellStock(121).swift */,
 				940644BE2A4620E2002C4546 /* ContainsDuplicate(217).swift */,
+				940644C02A462625002C4546 /* ProductofArrayExceptSelf(238).swift */,
+				940644C22A462B37002C4546 /* MaximumProductSubarray(152).swift */,
+				940644C42A463B99002C4546 /* FindMinimuminRotatedSortedArray(153).swift */,
+				940644C62A4649EB002C4546 /* ClimbingStairs(70).swift */,
+				940644C82A464A84002C4546 /* LongestIncreasingSubsequence(300).swift */,
+				940644CA2A465B9A002C4546 /* ValidParentheses(20).swift */,
+				940644CC2A465C97002C4546 /* SwapNodesinPairs(24).swift */,
+				940644CE2A466106002C4546 /* SpiralMatrix(54).swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -130,8 +154,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				940644BF2A4620E2002C4546 /* ContainsDuplicate(217).swift in Sources */,
+				940644CD2A465C97002C4546 /* SwapNodesinPairs(24).swift in Sources */,
+				940644C52A463B99002C4546 /* FindMinimuminRotatedSortedArray(153).swift in Sources */,
+				940644CF2A466106002C4546 /* SpiralMatrix(54).swift in Sources */,
+				940644C12A462625002C4546 /* ProductofArrayExceptSelf(238).swift in Sources */,
 				940644BD2A461F88002C4546 /* BestTimetoBuyandSellStock(121).swift in Sources */,
+				940644C92A464A84002C4546 /* LongestIncreasingSubsequence(300).swift in Sources */,
+				940644C32A462B37002C4546 /* MaximumProductSubarray(152).swift in Sources */,
+				940644CB2A465B9A002C4546 /* ValidParentheses(20).swift in Sources */,
 				940644B42A4612F2002C4546 /* main.swift in Sources */,
+				940644C72A4649EB002C4546 /* ClimbingStairs(70).swift in Sources */,
 				940644BB2A461BB3002C4546 /* TwoSum(1).swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
+print(findMin([2,3,4,5,1]))
 
