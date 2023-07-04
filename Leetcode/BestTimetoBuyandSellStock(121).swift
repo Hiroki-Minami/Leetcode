@@ -1,14 +1,14 @@
 //
-//  BestTimetoBuyandSellStock(121).swift
+//  BestTimeToBuyAndSellStock(121).swift
 //  Leetcode
 //
-//  Created by Hiroki Minami on 2023-06-23.
+//  Created by Hiroki Minami on 2023-07-04.
 //
 
 import Foundation
 
 /// `Best Time to Buy and Sell Stock`
-/// leetcode link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+/// leetcode link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 /// O(n)
 /// S(n)
 func maxProfit(_ prices: [Int]) -> Int {
