@@ -12,7 +12,7 @@ import Foundation
 /// O(n^2)  n^2 + logn
 /// S(n) n + n + 2n
 func threeSum(_ nums: [Int]) -> [[Int]] {
-  var nums = nums.sorted(by: <)
+  let nums = nums.sorted(by: <)
   var result = Set<[Int]>()
   
   for i in 0..<nums.count {

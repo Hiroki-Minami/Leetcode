@@ -14,7 +14,7 @@ import Foundation
 func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
   var map: [Int: [Int]] = [:]
   for (i, num) in nums.enumerated() {
-    var temp = target - num
+    let temp = target - num
     if let pair = map[temp] { return [pair[0], i] }
     map[num, default: []].append(i)
   }

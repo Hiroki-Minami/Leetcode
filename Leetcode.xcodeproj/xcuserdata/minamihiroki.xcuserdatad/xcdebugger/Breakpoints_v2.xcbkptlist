@@ -34,6 +34,38 @@
             endingLineNumber = "28"
             landmarkName = "buddyStrings(_:_:)"
             landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "7F3573A7-EFC7-4B14-B2F0-DF68B199A60F - 853c1407a45700f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Leetcode.buddyStrings(Swift.String, Swift.String) -&gt; Swift.Bool"
+                  moduleName = "Leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minamihiroki/Desktop/WMAD_Program/Leetcode/Leetcode/BuddyStrings(859).swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "924">
+               </Location>
+               <Location
+                  uuid = "7F3573A7-EFC7-4B14-B2F0-DF68B199A60F - 853c1407a45703ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Leetcode.buddyStrings(Swift.String, Swift.String) -&gt; Swift.Bool"
+                  moduleName = "Leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minamihiroki/Desktop/WMAD_Program/Leetcode/Leetcode/BuddyStrings(859).swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "936">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
