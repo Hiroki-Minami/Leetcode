@@ -8,8 +8,8 @@
 import Foundation
 
 //var matrix = [[1,2,3],[4,5,6],[7,8,9]]
-var matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]
-print(matrix.flatMap({$0}))
+//var matrix = [[5,1,9,11],[2,4,8,10],[13,3,6,7],[15,14,12,16]]
+//print(matrix.flatMap({$0}))
 //var matrix = [[0,1]]
 //setZeroes(&matrix)
 //rotate(&matrix)
@@ -35,5 +35,7 @@ print(matrix.flatMap({$0}))
 //hfnaiudnfa.remove(<#T##member: (Int)##(Int)#>)
 
 //print(exist([["C","A","A"],["A","A","A"],["B","C","D"]], "AAB"))
-var dnuandofjna = ["test": 1]
-dnuandofjna.keys.sorted(by: <)
+//var dnuandofjna = ["test": 1]
+//dnuandofjna.keys.sorted(by: <)
+let iabdifhabdihfba = [1,2,3]
+print(iabdifhabdihfba.allSatisfy({ $0 > 1}))
