@@ -32,6 +32,8 @@
 		9468CF8D2A59CE5D0096D3CE /* ValidateBinarySearchTree(98).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9468CF8C2A59CE5D0096D3CE /* ValidateBinarySearchTree(98).swift */; };
 		9468CF8F2A5B80550096D3CE /* KthSmallestElementInaBST(230).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9468CF8E2A5B80550096D3CE /* KthSmallestElementInaBST(230).swift */; };
 		9468CF912A5BB3200096D3CE /* LowestCommonAncestorOfaBinarySearchTree(235).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9468CF902A5BB3200096D3CE /* LowestCommonAncestorOfaBinarySearchTree(235).swift */; };
+		9468CF932A5BCC330096D3CE /* NumberOfIslands(200).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9468CF922A5BCC330096D3CE /* NumberOfIslands(200).swift */; };
+		9468CF952A5BDC040096D3CE /* MinimumDepthOfBinaryTree(111).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9468CF942A5BDC040096D3CE /* MinimumDepthOfBinaryTree(111).swift */; };
 		9494BFEC2A539CB800DF51CF /* BuddyStrings(859).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9494BFEB2A539CB800DF51CF /* BuddyStrings(859).swift */; };
 		9494BFEE2A548D0F00DF51CF /* SumOfTwoIntegers(371).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9494BFED2A548D0F00DF51CF /* SumOfTwoIntegers(371).swift */; };
 		9494BFF02A548E4500DF51CF /* SubtreeOfAnotherTree(572).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9494BFEF2A548E4500DF51CF /* SubtreeOfAnotherTree(572).swift */; };
@@ -106,6 +108,8 @@
 		9468CF8C2A59CE5D0096D3CE /* ValidateBinarySearchTree(98).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ValidateBinarySearchTree(98).swift"; sourceTree = "<group>"; };
 		9468CF8E2A5B80550096D3CE /* KthSmallestElementInaBST(230).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "KthSmallestElementInaBST(230).swift"; sourceTree = "<group>"; };
 		9468CF902A5BB3200096D3CE /* LowestCommonAncestorOfaBinarySearchTree(235).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LowestCommonAncestorOfaBinarySearchTree(235).swift"; sourceTree = "<group>"; };
+		9468CF922A5BCC330096D3CE /* NumberOfIslands(200).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NumberOfIslands(200).swift"; sourceTree = "<group>"; };
+		9468CF942A5BDC040096D3CE /* MinimumDepthOfBinaryTree(111).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MinimumDepthOfBinaryTree(111).swift"; sourceTree = "<group>"; };
 		9494BFEB2A539CB800DF51CF /* BuddyStrings(859).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BuddyStrings(859).swift"; sourceTree = "<group>"; };
 		9494BFED2A548D0F00DF51CF /* SumOfTwoIntegers(371).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SumOfTwoIntegers(371).swift"; sourceTree = "<group>"; };
 		9494BFEF2A548E4500DF51CF /* SubtreeOfAnotherTree(572).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SubtreeOfAnotherTree(572).swift"; sourceTree = "<group>"; };
@@ -229,6 +233,8 @@
 				9468CF8C2A59CE5D0096D3CE /* ValidateBinarySearchTree(98).swift */,
 				9468CF8E2A5B80550096D3CE /* KthSmallestElementInaBST(230).swift */,
 				9468CF902A5BB3200096D3CE /* LowestCommonAncestorOfaBinarySearchTree(235).swift */,
+				9468CF922A5BCC330096D3CE /* NumberOfIslands(200).swift */,
+				9468CF942A5BDC040096D3CE /* MinimumDepthOfBinaryTree(111).swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -332,6 +338,7 @@
 				9494BFFE2A54C18800DF51CF /* 3Sum(15).swift in Sources */,
 				9494C0022A54CCBD00DF51CF /* Subsets(78).swift in Sources */,
 				9494C00E2A54D3D700DF51CF /* GasStation(134).swift in Sources */,
+				9468CF952A5BDC040096D3CE /* MinimumDepthOfBinaryTree(111).swift in Sources */,
 				9494BFFC2A54964900DF51CF /* CourseSchedule(207).swift in Sources */,
 				940644C32A462B37002C4546 /* MaximumProductSubarray(152).swift in Sources */,
 				9494C0302A56538200DF51CF /* SortCharactersByFrequency(451).swift in Sources */,
@@ -344,6 +351,7 @@
 				9494C0102A54D7BC00DF51CF /* ContainerWithMostWater(11).swift in Sources */,
 				940644BB2A461BB3002C4546 /* TwoSum(1).swift in Sources */,
 				9494C0162A55225500DF51CF /* MissingNumber(268).swift in Sources */,
+				9468CF932A5BCC330096D3CE /* NumberOfIslands(200).swift in Sources */,
 				9463831A2A57362500B24CA9 /* RotateImage(48).swift in Sources */,
 				9494C0002A54C7DB00DF51CF /* SimplifyPath(71).swift in Sources */,
 				9494BFF22A548F8300DF51CF /* InvertBinaryTree(226).swift in Sources */,

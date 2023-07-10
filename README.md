@@ -54,4 +54,6 @@
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 - [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
+- [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
