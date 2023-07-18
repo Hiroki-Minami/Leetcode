@@ -58,3 +58,5 @@
 - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
 - [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)
+- [Find the Difference](https://leetcode.com/problems/find-the-difference/description/)
+- [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)

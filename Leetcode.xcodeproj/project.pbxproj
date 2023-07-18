@@ -36,6 +36,8 @@
 		9468CF952A5BDC040096D3CE /* MinimumDepthOfBinaryTree(111).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9468CF942A5BDC040096D3CE /* MinimumDepthOfBinaryTree(111).swift */; };
 		9468CF972A5CEC260096D3CE /* AllNodesDistanceKInBinaryTree(863).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9468CF962A5CEC260096D3CE /* AllNodesDistanceKInBinaryTree(863).swift */; };
 		9468CF992A61CD630096D3CE /* LongestArithmeticSubsequenceOfGivenDifference(1218).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9468CF982A61CD630096D3CE /* LongestArithmeticSubsequenceOfGivenDifference(1218).swift */; };
+		947611D12A646AD90024E44E /* FindTheDifference(389).swift in Sources */ = {isa = PBXBuildFile; fileRef = 947611D02A646AD90024E44E /* FindTheDifference(389).swift */; };
+		947611D32A6613210024E44E /* AddTwoNumbersII(445).swift in Sources */ = {isa = PBXBuildFile; fileRef = 947611D22A6613210024E44E /* AddTwoNumbersII(445).swift */; };
 		9494BFEC2A539CB800DF51CF /* BuddyStrings(859).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9494BFEB2A539CB800DF51CF /* BuddyStrings(859).swift */; };
 		9494BFEE2A548D0F00DF51CF /* SumOfTwoIntegers(371).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9494BFED2A548D0F00DF51CF /* SumOfTwoIntegers(371).swift */; };
 		9494BFF02A548E4500DF51CF /* SubtreeOfAnotherTree(572).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9494BFEF2A548E4500DF51CF /* SubtreeOfAnotherTree(572).swift */; };
@@ -114,6 +116,8 @@
 		9468CF942A5BDC040096D3CE /* MinimumDepthOfBinaryTree(111).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MinimumDepthOfBinaryTree(111).swift"; sourceTree = "<group>"; };
 		9468CF962A5CEC260096D3CE /* AllNodesDistanceKInBinaryTree(863).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AllNodesDistanceKInBinaryTree(863).swift"; sourceTree = "<group>"; };
 		9468CF982A61CD630096D3CE /* LongestArithmeticSubsequenceOfGivenDifference(1218).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LongestArithmeticSubsequenceOfGivenDifference(1218).swift"; sourceTree = "<group>"; };
+		947611D02A646AD90024E44E /* FindTheDifference(389).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FindTheDifference(389).swift"; sourceTree = "<group>"; };
+		947611D22A6613210024E44E /* AddTwoNumbersII(445).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AddTwoNumbersII(445).swift"; sourceTree = "<group>"; };
 		9494BFEB2A539CB800DF51CF /* BuddyStrings(859).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BuddyStrings(859).swift"; sourceTree = "<group>"; };
 		9494BFED2A548D0F00DF51CF /* SumOfTwoIntegers(371).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SumOfTwoIntegers(371).swift"; sourceTree = "<group>"; };
 		9494BFEF2A548E4500DF51CF /* SubtreeOfAnotherTree(572).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SubtreeOfAnotherTree(572).swift"; sourceTree = "<group>"; };
@@ -241,6 +245,8 @@
 				9468CF942A5BDC040096D3CE /* MinimumDepthOfBinaryTree(111).swift */,
 				9468CF962A5CEC260096D3CE /* AllNodesDistanceKInBinaryTree(863).swift */,
 				9468CF982A61CD630096D3CE /* LongestArithmeticSubsequenceOfGivenDifference(1218).swift */,
+				947611D02A646AD90024E44E /* FindTheDifference(389).swift */,
+				947611D22A6613210024E44E /* AddTwoNumbersII(445).swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -307,6 +313,7 @@
 				9494C02A2A56297500DF51CF /* AddDigits(258).swift in Sources */,
 				9494C0262A561F1300DF51CF /* SummaryRanges(228).swift in Sources */,
 				946383222A5783D600B24CA9 /* MergeKSortedLists(23).swift in Sources */,
+				947611D12A646AD90024E44E /* FindTheDifference(389).swift in Sources */,
 				9494BFEC2A539CB800DF51CF /* BuddyStrings(859).swift in Sources */,
 				9494C0202A5600CE00DF51CF /* WordBreak(139).swift in Sources */,
 				940644BF2A4620E2002C4546 /* ContainsDuplicate(217).swift in Sources */,
@@ -322,6 +329,7 @@
 				9494BFF62A5491D600DF51CF /* LongestConsecutiveSequence(128).swift in Sources */,
 				9494C0242A561D9F00DF51CF /* CourseScheduleII(210).swift in Sources */,
 				9494C0282A5626AE00DF51CF /* LowestCommonAncestorOfABinaryTree(236).swift in Sources */,
+				947611D32A6613210024E44E /* AddTwoNumbersII(445).swift in Sources */,
 				9494BFF82A54928100DF51CF /* DecodeWays(91).swift in Sources */,
 				9468CF852A58C92B0096D3CE /* WordSearch(79).swift in Sources */,
 				940644C52A463B99002C4546 /* FindMinimuminRotatedSortedArray(153).swift in Sources */,
