@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9403152E2A8C3AB40057A584 /* PartitionList(86).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9403152D2A8C3AB40057A584 /* PartitionList(86).swift */; };
 		940644B42A4612F2002C4546 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644B32A4612F2002C4546 /* main.swift */; };
 		940644BB2A461BB3002C4546 /* TwoSum(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644BA2A461BB3002C4546 /* TwoSum(1).swift */; };
 		940644BF2A4620E2002C4546 /* ContainsDuplicate(217).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644BE2A4620E2002C4546 /* ContainsDuplicate(217).swift */; };
@@ -88,6 +89,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9403152D2A8C3AB40057A584 /* PartitionList(86).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PartitionList(86).swift"; sourceTree = "<group>"; };
 		940644B02A4612F2002C4546 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		940644B32A4612F2002C4546 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		940644BA2A461BB3002C4546 /* TwoSum(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TwoSum(1).swift"; sourceTree = "<group>"; };
@@ -253,6 +255,7 @@
 				947611D22A6613210024E44E /* AddTwoNumbersII(445).swift */,
 				9458AFD32A6E586A001C7E6D /* ConstructSmallestNumberFromDIString(2375).swift */,
 				9458AFD52A6EF5C5001C7E6D /* CalculateDelayedArrivalTime(2651).swift */,
+				9403152D2A8C3AB40057A584 /* PartitionList(86).swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -354,6 +357,7 @@
 				940644C12A462625002C4546 /* ProductofArrayExceptSelf(238).swift in Sources */,
 				9468CF8B2A58ED5C0096D3CE /* BinaryTreeLevelOrderTraversal(102).swift in Sources */,
 				9468CF912A5BB3200096D3CE /* LowestCommonAncestorOfaBinarySearchTree(235).swift in Sources */,
+				9403152E2A8C3AB40057A584 /* PartitionList(86).swift in Sources */,
 				9494BFF02A548E4500DF51CF /* SubtreeOfAnotherTree(572).swift in Sources */,
 				9463831E2A57528F00B24CA9 /* ReverseLinkedList(206).swift in Sources */,
 				940644C92A464A84002C4546 /* LongestIncreasingSubsequence(300).swift in Sources */,
