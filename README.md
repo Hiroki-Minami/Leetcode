@@ -63,3 +63,8 @@
 - [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/)
 - [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/)
 - [Partition List](https://leetcode.com/problems/partition-list/)
+- [Combination Sum](https://leetcode.com/problems/combination-sum/description/)
+- [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+- [Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [Single Number](https://leetcode.com/problems/single-number/)
+
