@@ -67,4 +67,6 @@
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Single Number](https://leetcode.com/problems/single-number/)
+- [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/)
+- [Target Sum](https://leetcode.com/problems/target-sum/description/)
 

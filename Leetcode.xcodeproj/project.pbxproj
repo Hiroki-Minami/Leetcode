@@ -19,6 +19,8 @@
 		940644CB2A465B9A002C4546 /* ValidParentheses(20).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644CA2A465B9A002C4546 /* ValidParentheses(20).swift */; };
 		940644CD2A465C97002C4546 /* SwapNodesinPairs(24).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644CC2A465C97002C4546 /* SwapNodesinPairs(24).swift */; };
 		940644CF2A466106002C4546 /* SpiralMatrix(54).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644CE2A466106002C4546 /* SpiralMatrix(54).swift */; };
+		945333702AC0ABFE0076D027 /* UnivaluedBinaryTree(965).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9453336F2AC0ABFE0076D027 /* UnivaluedBinaryTree(965).swift */; };
+		945333722AC0B1DF0076D027 /* TargetSum(494).swift in Sources */ = {isa = PBXBuildFile; fileRef = 945333712AC0B1DF0076D027 /* TargetSum(494).swift */; };
 		9458AFD42A6E586A001C7E6D /* ConstructSmallestNumberFromDIString(2375).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9458AFD32A6E586A001C7E6D /* ConstructSmallestNumberFromDIString(2375).swift */; };
 		9458AFD62A6EF5C5001C7E6D /* CalculateDelayedArrivalTime(2651).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9458AFD52A6EF5C5001C7E6D /* CalculateDelayedArrivalTime(2651).swift */; };
 		9463831A2A57362500B24CA9 /* RotateImage(48).swift in Sources */ = {isa = PBXBuildFile; fileRef = 946383192A57362500B24CA9 /* RotateImage(48).swift */; };
@@ -106,6 +108,8 @@
 		940644CA2A465B9A002C4546 /* ValidParentheses(20).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ValidParentheses(20).swift"; sourceTree = "<group>"; };
 		940644CC2A465C97002C4546 /* SwapNodesinPairs(24).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwapNodesinPairs(24).swift"; sourceTree = "<group>"; };
 		940644CE2A466106002C4546 /* SpiralMatrix(54).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SpiralMatrix(54).swift"; sourceTree = "<group>"; };
+		9453336F2AC0ABFE0076D027 /* UnivaluedBinaryTree(965).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UnivaluedBinaryTree(965).swift"; sourceTree = "<group>"; };
+		945333712AC0B1DF0076D027 /* TargetSum(494).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TargetSum(494).swift"; sourceTree = "<group>"; };
 		9458AFD32A6E586A001C7E6D /* ConstructSmallestNumberFromDIString(2375).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ConstructSmallestNumberFromDIString(2375).swift"; sourceTree = "<group>"; };
 		9458AFD52A6EF5C5001C7E6D /* CalculateDelayedArrivalTime(2651).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CalculateDelayedArrivalTime(2651).swift"; sourceTree = "<group>"; };
 		946383192A57362500B24CA9 /* RotateImage(48).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RotateImage(48).swift"; sourceTree = "<group>"; };
@@ -268,6 +272,8 @@
 				94920C5C2AAFC1C300C3E1F8 /* RotateArray(189).swift */,
 				94920C702AB773FD00C3E1F8 /* MaximumProductOfThreeNumbers(628).swift */,
 				94920C722AB77AC000C3E1F8 /* CombinationSum(39).swift */,
+				9453336F2AC0ABFE0076D027 /* UnivaluedBinaryTree(965).swift */,
+				945333712AC0B1DF0076D027 /* TargetSum(494).swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -344,6 +350,7 @@
 				9494BFFA2A5494DF00DF51CF /* TopKFrequentElements(347).swift in Sources */,
 				9494C00C2A54D36D00DF51CF /* BestTimetoBuyandSellStock(121).swift in Sources */,
 				9494C01C2A55EB9800DF51CF /* BinaryTreePreorderTraversal(144).swift in Sources */,
+				945333722AC0B1DF0076D027 /* TargetSum(494).swift in Sources */,
 				9458AFD42A6E586A001C7E6D /* ConstructSmallestNumberFromDIString(2375).swift in Sources */,
 				9468CF8D2A59CE5D0096D3CE /* ValidateBinarySearchTree(98).swift in Sources */,
 				94920C5B2AAFBE8300C3E1F8 /* SingleNumber(136).swift in Sources */,
@@ -378,6 +385,7 @@
 				94920C712AB773FD00C3E1F8 /* MaximumProductOfThreeNumbers(628).swift in Sources */,
 				9494C0042A54CE7300DF51CF /* MergeSortedArray(88).swift in Sources */,
 				9494BFFE2A54C18800DF51CF /* 3Sum(15).swift in Sources */,
+				945333702AC0ABFE0076D027 /* UnivaluedBinaryTree(965).swift in Sources */,
 				9494C0022A54CCBD00DF51CF /* Subsets(78).swift in Sources */,
 				9494C00E2A54D3D700DF51CF /* GasStation(134).swift in Sources */,
 				9468CF952A5BDC040096D3CE /* MinimumDepthOfBinaryTree(111).swift in Sources */,
