@@ -69,4 +69,8 @@
 - [Single Number](https://leetcode.com/problems/single-number/)
 - [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/)
 - [Target Sum](https://leetcode.com/problems/target-sum/description/)
+- [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
+- [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+- [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+- [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)
 

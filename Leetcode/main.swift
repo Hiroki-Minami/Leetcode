@@ -37,5 +37,7 @@ import Foundation
 //print(exist([["C","A","A"],["A","A","A"],["B","C","D"]], "AAB"))
 //var dnuandofjna = ["test": 1]
 //dnuandofjna.keys.sorted(by: <)
-let iabdifhabdihfba = [1,2,3]
-print(iabdifhabdihfba.allSatisfy({ $0 > 1}))
+//let iabdifhabdihfba = [1,2,3]
+//print(iabdifhabdihfba.allSatisfy({ $0 > 1}))
+
+decodeAtIndex("y959q969u3hb22odq595", 222280369)
