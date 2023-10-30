@@ -21,6 +21,8 @@
 		940644CF2A466106002C4546 /* SpiralMatrix(54).swift in Sources */ = {isa = PBXBuildFile; fileRef = 940644CE2A466106002C4546 /* SpiralMatrix(54).swift */; };
 		9407BE162AC9E6DA0085841D /* SumOfLeftLeaves(404).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9407BE152AC9E6DA0085841D /* SumOfLeftLeaves(404).swift */; };
 		9407BE182AC9F7780085841D /* KokoEatingBananas(875).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9407BE172AC9F7780085841D /* KokoEatingBananas(875).swift */; };
+		9425EAD62AEED08D00EC5E86 /* FindLargestValueInEachTreeRow(515).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9425EAD52AEED08D00EC5E86 /* FindLargestValueInEachTreeRow(515).swift */; };
+		9425EAD82AEED73800EC5E86 /* TallestBillboard(956).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9425EAD72AEED73800EC5E86 /* TallestBillboard(956).swift */; };
 		945333702AC0ABFE0076D027 /* UnivaluedBinaryTree(965).swift in Sources */ = {isa = PBXBuildFile; fileRef = 9453336F2AC0ABFE0076D027 /* UnivaluedBinaryTree(965).swift */; };
 		945333722AC0B1DF0076D027 /* TargetSum(494).swift in Sources */ = {isa = PBXBuildFile; fileRef = 945333712AC0B1DF0076D027 /* TargetSum(494).swift */; };
 		945333742AC53B300076D027 /* DecodedStringAtIndex(880).swift in Sources */ = {isa = PBXBuildFile; fileRef = 945333732AC53B300076D027 /* DecodedStringAtIndex(880).swift */; };
@@ -116,6 +118,8 @@
 		940644CE2A466106002C4546 /* SpiralMatrix(54).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SpiralMatrix(54).swift"; sourceTree = "<group>"; };
 		9407BE152AC9E6DA0085841D /* SumOfLeftLeaves(404).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SumOfLeftLeaves(404).swift"; sourceTree = "<group>"; };
 		9407BE172AC9F7780085841D /* KokoEatingBananas(875).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "KokoEatingBananas(875).swift"; sourceTree = "<group>"; };
+		9425EAD52AEED08D00EC5E86 /* FindLargestValueInEachTreeRow(515).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FindLargestValueInEachTreeRow(515).swift"; sourceTree = "<group>"; };
+		9425EAD72AEED73800EC5E86 /* TallestBillboard(956).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TallestBillboard(956).swift"; sourceTree = "<group>"; };
 		9453336F2AC0ABFE0076D027 /* UnivaluedBinaryTree(965).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UnivaluedBinaryTree(965).swift"; sourceTree = "<group>"; };
 		945333712AC0B1DF0076D027 /* TargetSum(494).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TargetSum(494).swift"; sourceTree = "<group>"; };
 		945333732AC53B300076D027 /* DecodedStringAtIndex(880).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DecodedStringAtIndex(880).swift"; sourceTree = "<group>"; };
@@ -292,6 +296,8 @@
 				9478F80A2AE5959D005A17BE /* FindBottomLeftTreeValue(513).swift */,
 				9478F80C2AE59C9C005A17BE /* MaximumAverageSubarrayI(643).swift */,
 				9478F80E2AE5A661005A17BE /* PartitionArrayIntoDisjointIntervals(915).swift */,
+				9425EAD52AEED08D00EC5E86 /* FindLargestValueInEachTreeRow(515).swift */,
+				9425EAD72AEED73800EC5E86 /* TallestBillboard(956).swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -384,6 +390,7 @@
 				9468CF852A58C92B0096D3CE /* WordSearch(79).swift in Sources */,
 				94920C5D2AAFC1C300C3E1F8 /* RotateArray(189).swift in Sources */,
 				940644C52A463B99002C4546 /* FindMinimuminRotatedSortedArray(153).swift in Sources */,
+				9425EAD82AEED73800EC5E86 /* TallestBillboard(956).swift in Sources */,
 				9494C02E2A56381C00DF51CF /* EvaluateDivision(399).swift in Sources */,
 				9468CF872A58E5530096D3CE /* MaximumDepthOfBinaryTree(104).swift in Sources */,
 				9494C0062A54D00900DF51CF /* BinaryTreeInorderTraversal(94).swift in Sources */,
@@ -401,6 +408,7 @@
 				9403152E2A8C3AB40057A584 /* PartitionList(86).swift in Sources */,
 				9494BFF02A548E4500DF51CF /* SubtreeOfAnotherTree(572).swift in Sources */,
 				9478F80D2AE59C9C005A17BE /* MaximumAverageSubarrayI(643).swift in Sources */,
+				9425EAD62AEED08D00EC5E86 /* FindLargestValueInEachTreeRow(515).swift in Sources */,
 				9463831E2A57528F00B24CA9 /* ReverseLinkedList(206).swift in Sources */,
 				940644C92A464A84002C4546 /* LongestIncreasingSubsequence(300).swift in Sources */,
 				94920C712AB773FD00C3E1F8 /* MaximumProductOfThreeNumbers(628).swift in Sources */,

@@ -72,5 +72,5 @@
 - [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
 - [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
-- [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)
+- [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
 
