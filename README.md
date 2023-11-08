@@ -73,4 +73,5 @@
 - [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+- [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/submissions/)
 

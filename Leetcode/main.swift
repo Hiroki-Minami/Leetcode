@@ -40,4 +40,6 @@ import Foundation
 //let iabdifhabdihfba = [1,2,3]
 //print(iabdifhabdihfba.allSatisfy({ $0 > 1}))
 
-print(tallestBillboard([1,2,3,4,5,6]))
+//print(tallestBillboard([1,2,3,4,5,6]))
+
+print(shortestToChar("loveleetcode", "e"))
