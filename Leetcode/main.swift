@@ -42,4 +42,5 @@ import Foundation
 
 //print(tallestBillboard([1,2,3,4,5,6]))
 
-print(shortestToChar("loveleetcode", "e"))
+//print(shortestToChar("loveleetcode", "e"))
+print(rankTeams(["ZMNAGUEDSJYLBOPHRQICWFXTVK"]))

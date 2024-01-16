@@ -366,5 +366,211 @@
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D8E0B53-4D2D-4CC4-B36C-E7FD7DD4C61C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Leetcode/RankTeamsByVotes(1366).swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "helper(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "2D8E0B53-4D2D-4CC4-B36C-E7FD7DD4C61C - 850a96ac9d10c91d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helper(Swift.Int) -&gt; Swift.Array&lt;Swift.Character&gt;"
+                  moduleName = "Leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minamihiroki/Desktop/WMAD_Program/Leetcode/Leetcode/RankTeamsByVotes(1366).swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "2D8E0B53-4D2D-4CC4-B36C-E7FD7DD4C61C - aab03a73b8a9b0f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int in helper(Swift.Int) -&gt; Swift.Array&lt;Swift.Character&gt;"
+                  moduleName = "Leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minamihiroki/Desktop/WMAD_Program/Leetcode/Leetcode/RankTeamsByVotes(1366).swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6944B12-317D-4850-B47F-E27D374AFB04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Leetcode/RankTeamsByVotes(1366).swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "helper(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B06DCF7C-2AE2-4249-AABA-1483DEC0FD10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Leetcode/RankTeamsByVotes(1366).swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "helper(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "B06DCF7C-2AE2-4249-AABA-1483DEC0FD10 - 850a96ac9d10c880"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helper(Swift.Int) -&gt; Swift.Array&lt;Swift.Character&gt;"
+                  moduleName = "Leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minamihiroki/Desktop/WMAD_Program/Leetcode/Leetcode/RankTeamsByVotes(1366).swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "B06DCF7C-2AE2-4249-AABA-1483DEC0FD10 - 754be4b3dfc9ae0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 ((key: Swift.Character, value: Swift.Array&lt;Swift.Int&gt;)) -&gt; Swift.Bool in helper(Swift.Int) -&gt; Swift.Array&lt;Swift.Character&gt;"
+                  moduleName = "Leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minamihiroki/Desktop/WMAD_Program/Leetcode/Leetcode/RankTeamsByVotes(1366).swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "B06DCF7C-2AE2-4249-AABA-1483DEC0FD10 - 889414ce6812c23d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 ((key: Swift.Character, value: Swift.Array&lt;Swift.Int&gt;)) -&gt; Swift.Character in helper(Swift.Int) -&gt; Swift.Array&lt;Swift.Character&gt;"
+                  moduleName = "Leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minamihiroki/Desktop/WMAD_Program/Leetcode/Leetcode/RankTeamsByVotes(1366).swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5856032B-A0FF-4DEF-B7F9-1316CC52C388"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Leetcode/RankTeamsByVotes(1366).swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "helper(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "5856032B-A0FF-4DEF-B7F9-1316CC52C388 - 850a96ac9d10c8c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "helper(Swift.Int) -&gt; Swift.Array&lt;Swift.Character&gt;"
+                  moduleName = "Leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minamihiroki/Desktop/WMAD_Program/Leetcode/Leetcode/RankTeamsByVotes(1366).swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+               <Location
+                  uuid = "5856032B-A0FF-4DEF-B7F9-1316CC52C388 - 901ae5c3856dfa0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 ((key: Swift.Character, value: Swift.Array&lt;Swift.Int&gt;)) -&gt; Swift.Bool in helper(Swift.Int) -&gt; Swift.Array&lt;Swift.Character&gt;"
+                  moduleName = "Leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minamihiroki/Desktop/WMAD_Program/Leetcode/Leetcode/RankTeamsByVotes(1366).swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "5856032B-A0FF-4DEF-B7F9-1316CC52C388 - dcbd5f3c494d967d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 ((key: Swift.Character, value: Swift.Array&lt;Swift.Int&gt;)) -&gt; Swift.Character in helper(Swift.Int) -&gt; Swift.Array&lt;Swift.Character&gt;"
+                  moduleName = "Leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minamihiroki/Desktop/WMAD_Program/Leetcode/Leetcode/RankTeamsByVotes(1366).swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA4DA687-25FE-4B97-9E8D-83862323BC27"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Leetcode/RankTeamsByVotes(1366).swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "helper(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
